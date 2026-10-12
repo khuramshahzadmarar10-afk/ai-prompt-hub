@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://khuramshahzadmarar10-afk.github.io/ai-prompt-hub/sitemap.xml
